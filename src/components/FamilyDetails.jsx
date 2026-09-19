@@ -43,7 +43,7 @@ const FamilyDetails = () => {
             <div>
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-amber-500/40 bg-amber-500/10 text-amber-300 text-xs font-cinzel tracking-widest uppercase mb-4">
                 <Users className="w-3.5 h-3.5" />
-                <span>Groom's Family</span>
+                <span>My Family</span>
               </div>
 
               <h3 className="font-garamond font-bold text-2xl text-amber-200 mb-3 leading-snug">
@@ -90,7 +90,7 @@ const FamilyDetails = () => {
             <div>
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-amber-500/40 bg-amber-500/10 text-amber-300 text-xs font-cinzel tracking-widest uppercase mb-4">
                 <Heart className="w-3.5 h-3.5 fill-amber-300" />
-                <span>Bride's Family</span>
+                <span>Her Family</span>
               </div>
 
               <h3 className="font-garamond font-bold text-2xl text-amber-200 mb-3 leading-snug">

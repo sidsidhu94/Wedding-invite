@@ -34,9 +34,9 @@ const weddingData = {
   },
 
   invitationText: {
-    greeting: "Cordi ally invite you and your family",
+    greeting: "Cordially invite you and your family",
     occasion: "on the auspicious occasion of the",
-    eventTitle: "WEDDING RECEPTION OF OUR SON"
+    eventTitle: "WEDDING RECEPTION"
   },
 
   wedding: {
